@@ -1,4 +1,4 @@
-<h1> <centre> Get To Know Me!!! </centre> <h1/>
+ <centre> Get To Know Me!!! </centre> 
 <style> body { background-color: #000000; } <style/>
 <style>
 body {
