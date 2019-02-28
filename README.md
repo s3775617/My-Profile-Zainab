@@ -15,7 +15,4 @@
         }
      </style>
  </head>
- 
- <img src="![me] (http://i65.tinypic.com/bit2ko.jpg)" 
- title="picture of me">
-<a href="![me] (http://i65.tinypic.com/bit2ko.jpg)"></a>
+ <img src="" alt="">
