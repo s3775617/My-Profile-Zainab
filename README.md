@@ -16,7 +16,7 @@
          </style>
          <style>
          img {
-         image-align: centre
+         img-align: centre
          }
      </style>
  </head>
