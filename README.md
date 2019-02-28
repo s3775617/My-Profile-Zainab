@@ -16,8 +16,8 @@
      </style>
  </head>
  
- <img src="http://i66.tinypic.com/qntzbm.jpg" 
+ <img src="http://i65.tinypic.com/bit2ko.jpg" 
  alt="display this" 
- width=200 height=200
+ width=auto
  title="picture of me"/>
-<a href="http://i66.tinypic.com/qntzbm.jpg"></a>
+<a href="http://i65.tinypic.com/bit2ko.jpg"></a>
