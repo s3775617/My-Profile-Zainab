@@ -1,4 +1,9 @@
  <centre> Get To Know Me!!! </centre> 
+ <style>
+p {
+    text-align:center
+}
+</style>
 <style> body { background-color: #000000; } <style/>
 <style>
 body {
