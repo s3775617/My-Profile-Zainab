@@ -15,6 +15,5 @@
         }
      </style>
  </head>
- <img src="pictures/screenshot(6).png">
 
 
