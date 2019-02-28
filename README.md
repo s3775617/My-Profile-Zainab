@@ -17,6 +17,5 @@
  </head>
  
  <img src="![me] (http://i65.tinypic.com/bit2ko.jpg)" 
- alt="display this" width=auto
  title="picture of me">
 <a href="![me] (http://i65.tinypic.com/bit2ko.jpg)"></a>
