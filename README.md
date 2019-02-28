@@ -1,10 +1,9 @@
- <h1> Get To Know Me!!! </h1> 
+ <h1> Get To Know Me!!! <h1/> 
  <style>
 h1 {
     text-align:center
 }
 </style>
-<style> body { background-color: #000000; } <style/>
 <style>
 body {
     background-color: #000000;
