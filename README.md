@@ -5,7 +5,7 @@ body {
     background-color: #93B874;
 }
 h1 {
-    background-color: #00b33c;
+    background-color: #000000;
 }
 p {
     background-color: #FFFFFF);
