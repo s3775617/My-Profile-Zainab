@@ -16,5 +16,8 @@
      </style>
  </head>
  
- <img src="http://i66.tinypic.com/qntzbm.jpg" alt="display this" width=200 height=200 title="picture of me">
+ <img src="http://i66.tinypic.com/qntzbm.jpg" 
+ alt="display this" 
+ width=200 
+ title="picture of me">
 <a href="http://i66.tinypic.com/qntzbm.jpg"></a>
