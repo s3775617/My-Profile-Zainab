@@ -13,6 +13,11 @@
         h1 {
         text-align:center
         }
+         </style>
+         <style>
+         img {
+         image-align: centre
+         }
      </style>
  </head>
  <img src="http://i65.tinypic.com/bit2ko.jpg" alt="">
