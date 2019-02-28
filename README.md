@@ -8,6 +8,6 @@ h1 {
     background-color: #000000;
 }
 p {
-    background-color: #FFFFFF);
+    background-color: #000000);
 }
 </style>
