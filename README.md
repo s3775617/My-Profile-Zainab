@@ -15,4 +15,4 @@
         }
          </style>
  </head>
- <img src="http://i65.tinypic.com/bit2ko.jpg" alt="pic of me" class="centre"> 
+ <img src="http://i65.tinypic.com/bit2ko.jpg" alt="" class="centre"> 
