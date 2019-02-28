@@ -3,11 +3,15 @@
     <style>
         h1 { color: green; 
         }
-        body {
+       <style>
+           body {
         background-color: #000000;
         }
+            </style>
+            <style>
         h1 {
         text-align:center
         }
+                 </style>
     </style>
  </head>
