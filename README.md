@@ -17,7 +17,6 @@
  </head>
  
  <img src="http://i65.tinypic.com/bit2ko.jpg" 
- alt="display this" 
  width=auto
  title="picture of me">
 <a href="http://i65.tinypic.com/bit2ko.jpg"></a>
