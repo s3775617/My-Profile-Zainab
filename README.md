@@ -15,6 +15,6 @@
         }
      </style>
  </head>
- <img src="http://i65.tinypic.com/2nlw906.png" width=100% height=10%>
+ <img src="http://i65.tinypic.com/2nlw906.png" width=10% height=10%>
  <img src="http://i65.tinypic.com/2nlw906.png" title="Photograph by J. Godfrey">
-<a href="http://i65.tinypic.com/2nlw906.png"></a>
+
