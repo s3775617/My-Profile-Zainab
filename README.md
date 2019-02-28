@@ -11,3 +11,10 @@ p {
     background-color: #4fd800);
 }
 </style>
+
+<head>
+    <style>
+        body { color: red; 
+        }
+        </style>
+        </head>
