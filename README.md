@@ -5,9 +5,6 @@ h1 {
 }
 </style>
 <style>
-body {
-    background-color: #000000;
-}
 h1 {
     background-color: #000000;
 }
