@@ -16,3 +16,9 @@
          </style>
  </head>
  <img src="http://i65.tinypic.com/bit2ko.jpg" alt="" class="centre">
+center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
