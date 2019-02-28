@@ -14,10 +14,5 @@
         text-align:center
         }
          </style>
-         <style>
-         img {
-         img-align: centre
-         }
-     </style>
  </head>
- <img src="http://i65.tinypic.com/bit2ko.jpg" alt="">
+ <img src="http://i65.tinypic.com/bit2ko.jpg" alt="" class="centre">
