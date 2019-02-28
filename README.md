@@ -15,5 +15,5 @@
         }
      </style>
  </head>
- <img src="http://i66.tinypic.com/qntzbm.jpg" title="Photograph by J. Godfrey">
+ <img src="http://i66.tinypic.com/qntzbm.jpg" title="picture of me">
 <a href="http://i66.tinypic.com/qntzbm.jpg"></a>
