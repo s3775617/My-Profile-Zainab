@@ -1,6 +1,6 @@
- <centre> Get To Know Me!!! </centre> 
+ <h1> Get To Know Me!!! </h1> 
  <style>
-p {
+h1 {
     text-align:center
 }
 </style>
