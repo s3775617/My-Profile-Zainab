@@ -1,8 +1,5 @@
 <h1> Zainab Bakal! <h1/>
 <head>
- <style>
-<font face="inconsolata" color="green">Get to know me</font>
-  </style>
     <style>
         h1 { color: green; 
         }
