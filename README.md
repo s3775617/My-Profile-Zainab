@@ -35,6 +35,10 @@
 <h2> My Background </h2>
         </header>
 <section> 
-    <h3> Information technology? </h3>
-    <p> Information technology for me has always been the run away device in which I would always find my self confiding in... </p>
+    <h3> Personal Information? </h3>
+    <p> 
+    Name: Zainab Bakal...
+    Student Number: s3775617.../n
+    </p>
     </section>
+
