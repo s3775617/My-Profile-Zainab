@@ -61,10 +61,8 @@
     <header class="sectionHeading">
 <h2> Interest in IT </h2>
         </header>
-<p2> wazzap
+<p2> What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest?
+    <br> YES me </br>
 </p2>
-         <body background="bgimage.jpg">
-<h1>Hello world!</h1>
-<p><a href="https://www.w3schools.com">Visit W3Schools.com!</a></p>
-</body>
+
 </html>
