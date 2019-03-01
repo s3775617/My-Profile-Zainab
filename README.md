@@ -28,7 +28,7 @@
         }
          </style>
      <style> 
-        p1 { color: #fcfbe3;
+        p1 { color: #ffffd5;
         }
          </style>
       <style> 
