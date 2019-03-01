@@ -59,7 +59,7 @@
 </p1>
      <section id="background"> 
     <header class="sectionHeading">
-<h2> Interest in IT </h2>
+<h3> Interest in IT </h3>
         </header>
 <p2> What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest?
     <br> YES me </br>
