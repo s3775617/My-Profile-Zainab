@@ -31,6 +31,10 @@
         p1 { color: red;
         }
          </style>
+      <style> 
+        p2 { color: red;
+        }
+         </style>
  </head>
      <body>
    <center>
@@ -59,4 +63,5 @@
         </header>
 <p2> wazzap
 </p2>
+         
 </html>
