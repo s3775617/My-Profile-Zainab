@@ -39,7 +39,7 @@
     <p> 
     Name: Zainab Bakal
     <br> Student Number: s3775617<br/>
-        <br> Email: s3775617@student.rmit.edu <br/>
+    Email: s3775617@student.rmit.edu
     </p>
     </section>
 
