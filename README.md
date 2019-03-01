@@ -79,8 +79,7 @@
         <p1> I remember seeing RMIT university advertisements on the television when I was in year 9, the excitement I had was indescribable. Knowing that it is one of the highest qualified universities for IT made it even more the reason of choosing it to be the place in which I complete my degree. It is called the ‘Royal Melbourne Institute of Technology’ for a reason. I had also gone to the RMIT Melbourne city campus for VCE lectures held by ATAR Notes and the vibe this university gave made studying feel fun. Thus, I chose to apply and here I am today.  </p1> 
 
  <h3> What do you expect to learn during your studies? </h3>
-        <p1> I remember seeing RMIT university advertisements on the television when I was in year 9, the excitement I had was indescribable. Knowing that it is one of the highest qualified universities for IT made it even more the reason of choosing it to be the place in which I complete my degree. It is called the ‘Royal Melbourne Institute of Technology’ for a reason. I had also gone to the RMIT Melbourne city campus for VCE lectures held by ATAR Notes and the vibe this university gave made studying feel fun. Thus, I chose to apply and here I am today.  </p1> 
-
+        <p1> Studying at RMIT and choosing this specific course, I expect to learn about how technology works, the software and hardware of a pc and programming languages. I really hope to study about different languages such as java, python, c++ and many more. Understanding the basics of these will help me to develop applications, games and websites to assist me in my future career. I expect to learn enough to help me graduate with high scores so that I will know what I am doing when I do something related to IT. </p1>
 
 
 
