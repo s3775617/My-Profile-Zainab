@@ -1,4 +1,4 @@
-
+<html>
 <h1> WELCOME </h1>
 <head>
     <style>
@@ -67,3 +67,4 @@
 </p2>
 
 
+</html>
