@@ -24,6 +24,10 @@
         }
          </style>
      <style> 
+        p1 { color: white;
+        }
+         </style>
+     <style> 
         p { color: red;
         }
          </style>
@@ -31,11 +35,11 @@
      <body>
    <center>
 <section>
-    <p> 
+    <p1> 
     Name: Zainab Bakal
     <br> Student Number: s3775617<br/>
     Email: s3775617@student.rmit.edu
-         </p>
+         </p1>
     </section>
  <img src="http://i65.tinypic.com/bit2ko.jpg" alt="" height="auto">
     </center>
