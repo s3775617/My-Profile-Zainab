@@ -30,7 +30,7 @@
  </head>
      <body>
    <center>
- <img src="http://i65.tinypic.com/bit2ko.jpg" alt="" width=auto>
+ <img src="http://i65.tinypic.com/bit2ko.jpg" alt="" >
     </center>
     </body>
 <header>
