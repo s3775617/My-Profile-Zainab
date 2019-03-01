@@ -21,3 +21,7 @@
     <header class="sectionHeading">
 <h2> My Background </h2>
         </header>
+<section> 
+    <h3> Information technology? </h3>
+    <p> Information technology for me has always been the run away device in which I would always find my self confiding in </p>
+    </section>
