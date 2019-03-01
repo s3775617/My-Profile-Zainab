@@ -40,16 +40,14 @@
     Name: Zainab Bakal
     <br> Student Number: s3775617<br/>
     Email: s3775617@student.rmit.edu
-    </p>
+   
     </section>
  <img src="http://i65.tinypic.com/bit2ko.jpg" alt="" height="auto">
     </center>
     </body>
+     </p>
 <header>
-<section id="background"> 
-    <header class="sectionHeading">
-<h2> My Background </h2>
-        </header>
+
 
 
 </html>
