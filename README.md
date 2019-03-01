@@ -30,10 +30,6 @@
  </head>
      <body>
    <center>
-       <section id="background"> 
-    <header class="sectionHeading">
-<h2> My Background </h2>
-        </header>
 <section> 
     <h3> Personal Information? </h3>
     <p> 
