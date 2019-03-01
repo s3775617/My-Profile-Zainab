@@ -24,7 +24,7 @@
                       }
                 </style>
      <style> 
-        h3 { color: white;
+        h3 { color: red;
         }
                 </style>
      <style> 
@@ -39,6 +39,11 @@
                       p2 { color: red;
                       }
                       </style>
+         <style>
+        h3 {
+        text-align:center
+        }
+                </style>
 </head>
                       <body>
      <center>
