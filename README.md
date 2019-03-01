@@ -94,7 +94,7 @@
               Job Description
                </p>
 </section>
-               <img src="http://i63.tinypic.com/1z2lzjr.png" alt="" height="auto">
+               <img src="http://i66.tinypic.com/20igxv4.png" alt="" height="auto">
     </center>
 
  <h3> The Position? </h3>
