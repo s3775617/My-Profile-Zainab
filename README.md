@@ -17,4 +17,4 @@
  </head>
  <img src="http://i65.tinypic.com/bit2ko.jpg" alt="" > 
 
-Hello, My name is zainab bakal and i am a recent graduate
+<h2> Hello, My name is zainab bakal and i am a recent graduate <h2/>
