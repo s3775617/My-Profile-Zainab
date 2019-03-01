@@ -30,6 +30,18 @@
  </head>
      <body>
    <center>
+       <section id="background"> 
+    <header class="sectionHeading">
+<h2> My Background </h2>
+        </header>
+<section> 
+    <h3> Personal Information? </h3>
+    <p> 
+    Name: Zainab Bakal
+    <br> Student Number: s3775617<br/>
+    Email: s3775617@student.rmit.edu
+    </p>
+    </section>
  <img src="http://i65.tinypic.com/bit2ko.jpg" alt="" height="auto">
     </center>
     </body>
