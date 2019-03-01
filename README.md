@@ -1,9 +1,6 @@
+<h1> hey <h1/>
 <head>
-  <style>
-  <font face="Inconsolata" color="green"> 
-<h1> Get To Know Me!!! </h1> 
-  </font>
-  </style>
+
     <style>
         h1 { color: green; 
         }
