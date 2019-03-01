@@ -19,7 +19,7 @@
         }
          </style>
      <style> 
-        p1 { color: red;
+        p { color: red;
         }
          </style>
    
@@ -32,5 +32,5 @@
         </header>
 <section> 
     <h3> Information technology? </h3>
-    <p1> Information technology for me has always been the run away device in which I would always find my self confiding in </p1>
+    <p> Information technology for me has always been the run away device in which I would always find my self confiding in </p>
     </section>
