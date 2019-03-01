@@ -51,8 +51,6 @@
     <header class="sectionHeading">
 <h2> My Background </h2>
         </header>
-<p> •	What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).
-•	Why did you choose to come to RMIT?
-•	What do you expect to learn during your studies?
+<p> 18-years-old, born on the 30th August 2000 in Carlton Australia, I graduated VCE in 2018. While attending school, I had experience as an intern in companies such as Tata Consultancy Services and ACONEX. With my parents being born in Iraq, I have always been open to the tragic news of war, refugees and the after effects war has on many of the children who are left orphaned. Speaking both Arabic and English, I was always surfing the net to read about the stories of the people who fell victim to such events. This led me to have the hobby of helping out in organizations that provide shelter and help to those in need. With around 5 years’ experience in volunteering in all areas that would bring a smile of children’s faces, I decided to complete a degree in Information technology so that I can eventually help people all around the world. 
 </p>
 </html>
