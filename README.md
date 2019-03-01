@@ -18,6 +18,10 @@
         h2 { color: green;
         }
          </style>
+     <style> 
+        p1 { color: red;
+        }
+         </style>
    
  </head>
  <img src="http://i65.tinypic.com/bit2ko.jpg" alt="" > 
@@ -28,5 +32,5 @@
         </header>
 <section> 
     <h3> Information technology? </h3>
-    <p> Information technology for me has always been the run away device in which I would always find my self confiding in </p>
+    <p1> Information technology for me has always been the run away device in which I would always find my self confiding in </p1>
     </section>
