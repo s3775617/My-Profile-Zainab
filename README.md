@@ -37,8 +37,9 @@
 <section> 
     <h3> Personal Information? </h3>
     <p> 
-    Name: Zainab Bakal...
+    Name: Zainab Bakal
     <br> Student Number: s3775617<br/>
+        <br> Email: s3775617@student.rmit.edu <br/>
     </p>
     </section>
 
