@@ -20,6 +20,10 @@
                       }
                 </style>
      <style> 
+                      h3 { color: #39ff14;
+                      }
+                </style>
+     <style> 
         h3 { color: white;
         }
                 </style>
@@ -61,11 +65,12 @@
     <header class="sectionHeading">
    <h2> Interest in IT </h2>
 </header>
-                <p2> What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest?
-                <br> 
+                <h3> What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest?
+        </h3>
+<p1> 
 My interest surrounding IT began when I left to live with my father in Iraq in 2012 for a couple of years. Having my mother and brother overseas, I became really interested in computers and the systems behind it as I had used it as a source of communication and liking. No one in my family was really into technology however seeing how applications such as Google Maps and websites such as eBay had been able to reach people all over the world, questions started to arise. How did all this become? I never really believed that Google Maps was just, simply and plainly Google Maps. That is where my interest in IT was sparked. I gained experience in IT when I applied for a two-week intern ship at ACONEX, a company providing mobile and web-based collaboration technologies for project information and process management, on a software as a service basis, to clients in all areas. Having two pc monitors, a laptop and a fully supplied desk, made my interest in IT grow more and more. I was assigned to code a tic tac toe game and even though it may be considered a simple code, at that time it felt good to achieve writing it. 
 <br/>
-                </p2>
+                </p1>
 
 
 <html/>
