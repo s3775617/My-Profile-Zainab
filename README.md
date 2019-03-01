@@ -14,6 +14,10 @@
         text-align:center
         }
          </style>
+    <style> 
+        h2 { color: green;
+        }
+    </style>
  </head>
  <img src="http://i65.tinypic.com/bit2ko.jpg" alt="" > 
 <header>
