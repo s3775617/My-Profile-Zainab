@@ -38,7 +38,7 @@
     <h3> Personal Information? </h3>
     <p> 
     Name: Zainab Bakal...
-    Student Number: s3775617.../n
+    <br> Student Number: s3775617<br/>
     </p>
     </section>
 
