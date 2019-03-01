@@ -88,7 +88,14 @@
    <h2> Ideal Job </h2>
 </header>
 
-
+   <center>
+<section>
+               <p> 
+              Job Description
+               </p>
+</section>
+               <img src="http://i63.tinypic.com/1z2lzjr.png" alt="" height="auto">
+    </center>
 
 
 
