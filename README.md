@@ -82,7 +82,11 @@
         <p1> Studying at RMIT and choosing this specific course, I expect to learn about how technology works, the software and hardware of a pc and programming languages. I really hope to study about different languages such as java, python, c++ and many more. Understanding the basics of these will help me to develop applications, games and websites to assist me in my future career. I expect to learn enough to help me graduate with high scores so that I will know what I am doing when I do something related to IT. </p1>
 
 
-
+<header>
+   <section id="background"> 
+    <header class="sectionHeading">
+   <h2> Ideal Job </h2>
+</header>
 
 
 
