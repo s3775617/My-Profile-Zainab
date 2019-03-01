@@ -4,7 +4,7 @@
         h1 { color: green; 
         }
     </style>
-                <style>
+    <style>
                       body {
                       background-color: #000000;
                       }
@@ -14,10 +14,11 @@
         text-align:center
         }
          </style>
-    <style> 
+     <style> 
         h2 { color: green;
         }
-    </style>
+         </style>
+   
  </head>
  <img src="http://i65.tinypic.com/bit2ko.jpg" alt="" > 
 <header>
