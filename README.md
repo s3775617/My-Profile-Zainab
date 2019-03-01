@@ -30,8 +30,7 @@
  </head>
      <body>
    <center>
-<section> 
-    <h3> Personal Information? </h3>
+<section>
     <p> 
     Name: Zainab Bakal
     <br> Student Number: s3775617<br/>
