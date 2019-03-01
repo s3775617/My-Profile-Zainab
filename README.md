@@ -94,16 +94,16 @@
               Job Description
                </p>
 </section>
-               <img src="http://i63.tinypic.com/1z2lzjr.png" alt="" height="50%">
+               <img src="http://i63.tinypic.com/1z2lzjr.png" alt="" height="auto">
     </center>
 
- <h3> The Position </h3>
+ <h3> The Position? </h3>
         <p1> dundundunnnnnnnnnnnnn </p1>
 
- <h3> The Skills, Qualifications and Experiance Required </h3>
+ <h3> The Skills, Qualifications and Experiance Required? </h3>
         <p1> dundundunnnnnnnnnnnnn </p1>
 
- <h3> The Skills, Qualifications and Experiance I Have </h3>
+ <h3> The Skills, Qualifications and Experiance I Have? </h3>
         <p1> dundundunnnnnnnnnnnnn </p1>
 
 
