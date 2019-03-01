@@ -26,11 +26,13 @@
         p { color: red;
         }
          </style>
-   
- </head>
- <center>
+    <body>
+   <center>
  <img src="http://i65.tinypic.com/bit2ko.jpg" alt="" width=auto>
     </center>
+    </body>
+ </head>
+ 
 <header>
 <section id="background"> 
     <header class="sectionHeading">
