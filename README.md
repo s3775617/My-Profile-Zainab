@@ -1,4 +1,4 @@
-<h1> hey <h1/>
+<h1> hey </h1>
 <head>
 
     <style>
