@@ -2,7 +2,7 @@
 <h1> WELCOME </h1>
 <head>
     <style>
-        h1 { color: green; 
+        h1 { color: #39ff14; 
         }
     </style>
     <style>
@@ -16,7 +16,7 @@
         }
          </style>
      <style> 
-        h2 { color: green;
+        h2 { color: #39ff14;
         }
          </style>
         <style> 
