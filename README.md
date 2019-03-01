@@ -1,4 +1,4 @@
-<h1> Zainab Bakal! <h1/>
+<h1> Zainab Bakal! </h1>
 <head>
     <style>
         h1 { color: green; 
@@ -17,4 +17,7 @@
  </head>
  <img src="http://i65.tinypic.com/bit2ko.jpg" alt="" > 
 
-<h2> Hello, My name is zainab bakal and i am a recent graduate <h2/>
+<section id="background"> 
+    <header class="sectionHeading">
+<h2> My Background </h2>
+        </header>
