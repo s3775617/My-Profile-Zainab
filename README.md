@@ -28,7 +28,7 @@
          </style>
    
  </head>
- <img src="http://i65.tinypic.com/bit2ko.jpg" alt="" > 
+ <img src="http://i65.tinypic.com/bit2ko.jpg" alt="" class="centre"> 
 <header>
 <section id="background"> 
     <header class="sectionHeading">
