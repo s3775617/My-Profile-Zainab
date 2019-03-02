@@ -32,7 +32,7 @@
                       }
                 </style>
      <style> 
-        p1 { color: #ffffd5;
+        p1 { color: black;
         }
                 </style>
      <style> 
