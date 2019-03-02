@@ -1,5 +1,5 @@
 <html>
-<h1> WELCOME </h1>
+
 <head>
      <style>
         h1 { color: #39ff14; 
@@ -47,6 +47,7 @@
 </head>
                       <body>
      <center>
+          <h1> WELCOME </h1>
 <section>
                <p> 
                Name: Zainab Bakal
