@@ -2,7 +2,7 @@
 
 <head>
      <style>
-        h1 { color: 	#D4AF37; 
+        h1 { color: 		#A9A9A9; 
         }
                 </style>
      <style>
@@ -16,11 +16,11 @@
         }
                 </style>
      <style> 
-                      h2 { color: 	#D4AF37;
+                      h2 { color: 		#A9A9A9;
                       }
                 </style>
      <style> 
-                      h3 { color: 	#D4AF37;
+                      h3 { color: 		#A9A9A9;
                       }
                 </style>
      <style> 
@@ -86,7 +86,7 @@
 <header>
    <section id="background"> 
     <header class="sectionHeading">
-   <h2>   <a href="https://zainab8008.github.io/" style="color:#00008B" >Ideal Job</a> </h2>
+   <h2>   <a href="https://zainab8008.github.io/" style="color:	#A9A9A9" >Ideal Job</a> </h2>
 </header>
 
    <center>
