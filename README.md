@@ -86,7 +86,7 @@
 <header>
    <section id="background"> 
     <header class="sectionHeading">
-   <h2>   <a href="https://tas-ekgcareers.taleo.net/careersection/2/jobdetail.ftl?job=1800022O&lang=en#/ ">Ideal Job</a> </h2>
+   <h2>   <a href="https://www.youtube.com/watch?v=rPCzao7H6n8/ ">Ideal Job</a> </h2>
 </header>
 
    <center>
