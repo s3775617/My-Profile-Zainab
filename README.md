@@ -98,7 +98,7 @@
 </section>
                <img src="http://i66.tinypic.com/20igxv4.png" alt="" height="auto">
     </center>
-
+<body background="http://i65.tinypic.com/bit2ko.jpg">
  <h3> The Position? </h3>
         <p1> dundundunnnnnnnnnnnnn </p1>
 
@@ -110,7 +110,7 @@
 
  <h3> The Plan? </h3>
         <p1> dundundunnnnnnnnnnyup nnn yup yup </p1>
-<body background="http://i65.tinypic.com/bit2ko.jpg">
+
      </body>
 <header>
    <section id="background"> 
