@@ -28,11 +28,11 @@
         }
                 </style>
      <style> 
-                      p { color: white;
+                      p { color: black;
                       }
                 </style>
      <style> 
-        p1 { color: white;
+        p1 { color: black;
         }
                 </style>
      <style> 
@@ -123,7 +123,7 @@
     <header class="sectionHeading">
    <h2> Project Idea </h2>
 </header>
-<body background="http://i64.tinypic.com/2ylkbbq.jpg">
+<body background="http://i68.tinypic.com/14oahsh.jpg">
         </body>
 <html/>
 
