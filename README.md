@@ -7,7 +7,7 @@
                 </style>
      <style>
                       body {
-                      background-color: #000000;
+                      background-color: white;
                       }
                 </style>
      <style>
@@ -28,7 +28,7 @@
         }
                 </style>
      <style> 
-                      p { color: white;
+                      p { color: black;
                       }
                 </style>
      <style> 
