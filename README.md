@@ -110,7 +110,7 @@
 
  <h3> The Plan? </h3>
         <p1> dundundunnnnnnnnnnyup nnn yup yup </p1>
-<body background="">
+<body background="http://i65.tinypic.com/bit2ko.jpg">
      </body>
 <header>
    <section id="background"> 
