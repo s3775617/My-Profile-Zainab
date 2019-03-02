@@ -123,7 +123,7 @@
     <header class="sectionHeading">
    <h2> Project Idea </h2>
 </header>
-<body background="http://i64.tinypic.com/2qxu9sm.png" >
+<body background="http://i64.tinypic.com/r2ngk5.png" >
         </body>
 <html/>
 
