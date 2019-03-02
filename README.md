@@ -109,7 +109,7 @@
         <p1> dundundunnnnnnnnnnnnn </p1>
 
  <h3> The Plan? </h3>
-        <p1> dundundunnnnnnnnnnnnn yup </p1>
+        <p1> dundundunnnnnnnnnnnnn yup yup </p1>
 
 <header>
    <section id="background"> 
