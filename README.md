@@ -28,11 +28,11 @@
         }
                 </style>
      <style> 
-                      p { color: black;
+                      p { color: white;
                       }
                 </style>
      <style> 
-        p1 { color: black;
+        p1 { color: white;
         }
                 </style>
      <style> 
