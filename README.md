@@ -24,7 +24,7 @@
                       }
                 </style>
      <style> 
-        h3 { color: 	#0000FF;
+        h3 { color: 	#b76e79;
         }
                 </style>
      <style> 
@@ -36,7 +36,7 @@
         }
                 </style>
      <style> 
-                      p2 { color: 	#0000FF;
+                      p2 { color: 	#b76e79;
                       }
                       </style>
          <style>
