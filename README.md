@@ -91,7 +91,7 @@
    <center>
 <section>
                <p> 
-              Job Description
+              Job Description:
                     <a href="https://tas-ekgcareers.taleo.net/careersection/2/jobdetail.ftl?job=1800022O&lang=en#/ ">Visit this job offer!</a>
                </p>
 </section>
