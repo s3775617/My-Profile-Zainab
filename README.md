@@ -2,7 +2,7 @@
 
 <head>
      <style>
-        h1 { color: #0000FF; 
+        h1 { color: 	#00008B; 
         }
                 </style>
      <style>
@@ -16,15 +16,15 @@
         }
                 </style>
      <style> 
-                      h2 { color: #0000FF;
+                      h2 { color: 	#00008B;
                       }
                 </style>
      <style> 
-                      h3 { color: #0000FF;
+                      h3 { color: 	#00008B;
                       }
                 </style>
      <style> 
-        h3 { color: #00008B;
+        h3 { color: 	#0000FF;
         }
                 </style>
      <style> 
@@ -36,7 +36,7 @@
         }
                 </style>
      <style> 
-                      p2 { color: #00008B;
+                      p2 { color: 	#0000FF;
                       }
                       </style>
          <style>
