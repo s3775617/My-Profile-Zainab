@@ -110,7 +110,17 @@
  <h3> The Plan? </h3>
         <p1> dundundunnnnnnnnnnnnn </p1>
 
+<header>
+   <section id="background"> 
+    <header class="sectionHeading">
+   <h2> Personal Profile </h2>
+</header>
 
+<header>
+   <section id="background"> 
+    <header class="sectionHeading">
+   <h2> Project Idea </h2>
+</header>
 
 
 
