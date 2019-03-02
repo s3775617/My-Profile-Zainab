@@ -110,7 +110,8 @@
 
  <h3> The Plan? </h3>
         <p1> dundundunnnnnnnnnnyup nnn yup yup </p1>
-
+<body background="">
+     </body>
 <header>
    <section id="background"> 
     <header class="sectionHeading">
