@@ -2,7 +2,7 @@
 
 <head>
      <style>
-        h1 { color: 	#00008B; 
+        h1 { color: 	#D4AF37; 
         }
                 </style>
      <style>
@@ -16,11 +16,11 @@
         }
                 </style>
      <style> 
-                      h2 { color: 	#00008B;
+                      h2 { color: 	#D4AF37;
                       }
                 </style>
      <style> 
-                      h3 { color: 	#00008B;
+                      h3 { color: 	#D4AF37;
                       }
                 </style>
      <style> 
