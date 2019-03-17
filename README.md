@@ -100,7 +100,7 @@
     </center>
 
  <h3> The Position? </h3>
-        <p1> dundundunnnnnnnnnnnnn </p1>
+        <p1> The position of being a senior software Engineer appeals to me as the role of designing, developing and installing software appears exciting. Jobs like this won’t make me bored as I like to do different things every day. As being in this position means I need to write and integrate APIs using C# and Web API, I will be open to a lot of challenges that will guide my knowledge into the right path. Web development in this role like to write code, drive improvements, manage pull requests and commits using Git is an aspect I have only just been open to which I find extremely fun to do. If being in this position means that I will be able to experience many aspects of software and engineering, then I am more than happy to set it as my goal.  </p1>
 
  <h3> The Skills, Qualifications and Experiance Required? </h3>
         <p1> dundundunnnnnnnnnnnnn </p1>
