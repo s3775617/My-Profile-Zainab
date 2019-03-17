@@ -117,19 +117,22 @@
     <header class="sectionHeading">
    <h2> Personal Profile </h2>
 </header>
+        <section>
 <h3> 16 Personality Myers-Briggs test Results <h3/>
  <br>  <center>  <img src="http://i67.tinypic.com/2qvw1mh.png" alt="" height="auto">  <center/> <br> 
 <h3> Learning Style Test Results <h3/>
  <br>  <center>  <img src="http://i64.tinypic.com/wiq2ap.png" alt="" height="auto">  <center/> <br> 
      <h3> Creativity Test Results <h3/>
  <br>  <center>  <img src="http://i65.tinypic.com/2cohlyr.png" alt="" height="auto">  <center/> <br> 
-          
+          <section/>
    
 <header>
    <section id="background"> 
     <header class="sectionHeading">
  <h2>   <a href="https://zainab8008.github.io/" style="color:	#A9A9A9" >Project Idea</a> </h2>
 </header>
+        <body>
+        <section>
         <p1> <br>  
              “_MyCompanion_”, a new application that would change the way visually impaired people go on with their daily lives. Have you ever seen a person with a disability of not being able to see, do you know how it feels to be in their position? This application is a hand stretched out to those in need. Designed with the latest technology and programming languages, hoping to provide an application that would be the eye for blind people. All the individual needs to do is take a video of their house, office, local park etc. and the software would interpret the number of steps and blockage ways associated with that area. Then the app is ready to go. Say ‘My Home’ and your position would be determined then simply ask the app “where is my bed?”.  The app will then reply according to the distance and directions needed. “Please take three steps forward and one step right”.<br> <p1/>
              
@@ -147,6 +150,7 @@
 
 <body background="http://i64.tinypic.com/r2ngk5.png" >
         </body>
+        <section/>
 <html/>
 
 
