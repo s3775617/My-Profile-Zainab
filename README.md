@@ -109,7 +109,7 @@
         <p1> The skills, qualifications and experience I currently have included written and verbal communication skills in both English and Arabic and Basic knowledge of writing code, managing pull requests and commits using Git. I have started a Bachelor of Information Technology at RMIT and hoping to graduate in the year 2021. Being an SRC (School representative council) member for 2 years in my high school I have gained strong skills in communication, team work, logical, analytical and creative thinking.  </p1>
 
  <h3> The Plan? </h3>
-        <p1> dundundunnnrgnfncfgfdvdffdndnnnnygup </p1>
+        <p1> In order to obtain these skills, I will follow a plan in which will allow me to reach my goals. I will approach the plan as follows. Completing my Bachelor of Information Technology to the best of my abilities while watching tutorials and guides in how to develop and code software. I will try my best to read as much as possible about the areas surrounding Engineers in all aspects. I will then try to apply for internship at companies across the range of computers and programming to gain the 5-year experience that would help me achieve qualifications and skills that will allow me to succeed in such positions. While all this will be going on, I hope to play around with code and experiment different areas so that I will have an idea about different languages. Code academy and khan academy will be a good source to gain some basic experience. </p1>
 
     
 <header>
