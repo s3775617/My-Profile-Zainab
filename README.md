@@ -117,7 +117,14 @@
     <header class="sectionHeading">
    <h2> Personal Profile </h2>
 </header>
-
+<p1> 16 Personality Myers-Briggs test Results <p1/>
+ <br>  <center>  <img src="http://i68.tinypic.com/25692xu.png" alt="" height="auto">  <center/> <br> 
+<p1> Learning Style Test Results <p1/>
+ <br>  <center>  <img src="http://i64.tinypic.com/wiq2ap.png" alt="" height="auto">  <center/> <br> 
+     <p1> Creativity Test Results <p1/>
+ <br>  <center>  <img src="http://i68.tinypic.com/25692xu.png" alt="" height="auto">  <center/> <br> 
+          
+          
 <header>
    <section id="background"> 
     <header class="sectionHeading">
