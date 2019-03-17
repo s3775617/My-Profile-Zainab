@@ -128,7 +128,7 @@
 <header>
    <section id="background"> 
     <header class="sectionHeading">
-   <h2> Project Idea </h2>
+   <h3> Project Idea </h3>
 </header>
         <p1> <br>  
              “_MyCompanion_”, a new application that would change the way visually impaired people go on with their daily lives. Have you ever seen a person with a disability of not being able to see, do you know how it feels to be in their position? This application is a hand stretched out to those in need. Designed with the latest technology and programming languages, hoping to provide an application that would be the eye for blind people. All the individual needs to do is take a video of their house, office, local park etc. and the software would interpret the number of steps and blockage ways associated with that area. Then the app is ready to go. Say ‘My Home’ and your position would be determined then simply ask the app “where is my bed?”.  The app will then reply according to the distance and directions needed. “Please take three steps forward and one step right”.<br> <p1/>
