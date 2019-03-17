@@ -1,1 +1,48 @@
-hello
+<html>
+
+<head>
+     <style>
+        h1 { color: 		#A9A9A9; 
+        }
+                </style>
+     <style>
+                      body {
+                      background-color: white;
+                      }
+                </style>
+     <style>
+        h1 {
+        text-align:center
+        }
+                </style>
+     <style> 
+                      h2 { color: 		#A9A9A9;
+                      }
+                </style>
+     <style> 
+                      h3 { color: 		#A9A9A9;
+                      }
+                </style>
+     <style> 
+        h3 { color: 	#b76e79;
+        }
+                </style>
+     <style> 
+                      p { color: black;
+                      }
+                </style>
+     <style> 
+        p1 { color: black;
+        }
+                </style>
+     <style> 
+                      p2 { color: 	black;
+                      }
+                      </style>
+         <style>
+        h3 {
+        text-align:center
+        }
+                </style>
+</head>
+
