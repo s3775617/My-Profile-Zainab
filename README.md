@@ -117,12 +117,12 @@
     <header class="sectionHeading">
    <h2> Personal Profile </h2>
 </header>
-<p1> 16 Personality Myers-Briggs test Results <p1/>
- <br>  <center>  <img src="![16perso](http://i67.tinypic.com/2qvw1mh.png)!" alt="" height="auto">  <center/> <br> 
-<p1> Learning Style Test Results <p1/>
- <br>  <center>  <img src="![LearningStyle](http://i64.tinypic.com/wiq2ap.png)" alt="" height="auto">  <center/> <br> 
-     <p1> Creativity Test Results <p1/>
- <br>  <center>  <img src="![Creativitytest](http://i65.tinypic.com/2cohlyr.png)" alt="" height="auto">  <center/> <br> 
+<h3> 16 Personality Myers-Briggs test Results <h3/>
+ <br>  <center>  <img src="http://i67.tinypic.com/2qvw1mh.png" alt="" height="auto">  <center/> <br> 
+<h3> Learning Style Test Results <h3/>
+ <br>  <center>  <img src="http://i64.tinypic.com/wiq2ap.png" alt="" height="auto">  <center/> <br> 
+     <h3> Creativity Test Results <h3/>
+ <br>  <center>  <img src="http://i65.tinypic.com/2cohlyr.png" alt="" height="auto">  <center/> <br> 
           
           
 <header>
