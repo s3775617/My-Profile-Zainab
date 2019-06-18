@@ -93,7 +93,7 @@
  <h2>   <a href="https://zainab8008.github.io/" style="color:	#A9A9A9" >Project Idea</a> </h2>
 </header>
 <body>
-<body background="https://media.gettyimages.com/photos/skyblue-pastel-color-painted-wooden-texture-wallpaper-background-picture-id607609968?b=1&k=6&m=607609968&s=612x612&w=0&h=wCnvdd63NO-0Hgds-kCrJXRy0E_i-r2OlhlG9QyRfVM=" >
+<body background="http://i63.tinypic.com/ela815.jpg" >
         </body>
         <section/>
 <html/>
